@@ -1,0 +1,28 @@
+{
+  "name": "ami-s-conf",
+  "version": "0.0.0",
+  "description": "Asterisk Manager Interface configured with s-conf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/ami-s-conf.git"
+  },
+  "keywords": [
+    "asterisk",
+    "ami",
+    "s-conf"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/ami-s-conf/issues"
+  },
+  "homepage": "https://github.com/fgascon/ami-s-conf",
+  "dependencies": {
+    "asterisk-manager-pool": "^1.0.0",
+    "s-conf": "0.0.0"
+  }
+}
